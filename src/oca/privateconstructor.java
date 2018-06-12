@@ -1,9 +1,9 @@
 package oca;
-class A{
-	private A() {
+class A1{
+	private A1() {
 		
 	}
-	private A(int a) {
+	private A1(int a) {
 		
 	}
 }
